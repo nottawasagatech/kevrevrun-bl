@@ -3,3 +3,12 @@
 0.0.0.0 overwolf.com
 0.0.0.0 discordapp.com
 0.0.0.0 discord.com
+0.0.0.0 oculus.com
+0.0.0.0 fbcdn.net
+0.0.0.0 oculuscdn.com
+0.0.0.0 meta.com
+0.0.0.0 epicgames.com
+0.0.0.0 ropro.io
+0.0.0.0 vrchat.cloud
+0.0.0.0 exitgames.com
+0.0.0.0 play.google.com
