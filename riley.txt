@@ -1,7 +1,5 @@
 0.0.0.0 roblox.com
 0.0.0.0 overwolf.com
-0.0.0.0 discordapp.com
-0.0.0.0 discord.com
 0.0.0.0 oculus.com
 0.0.0.0 fbcdn.net
 0.0.0.0 oculuscdn.com
