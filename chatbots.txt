@@ -26,3 +26,4 @@
 0.0.0.0 textcortex.com
 0.0.0.0 khanmigo.ai
 0.0.0.0 copy.ai
+0.0.0.0 chatgpt.com
